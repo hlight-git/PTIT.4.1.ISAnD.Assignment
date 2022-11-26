@@ -103,6 +103,18 @@ body {
     box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
 }
 
+.table-footer {
+    background-color: #2F0092;
+    font-size: 24px;
+    font-weight: bold;
+    color: #D9D9D9;
+    letter-spacing: 0.03em;
+}
+
+.col-footer {
+    text-align: center;
+    flex-basis: 100%;
+}
 .col-1 {
     text-align: center;
     flex-basis: 20%;
